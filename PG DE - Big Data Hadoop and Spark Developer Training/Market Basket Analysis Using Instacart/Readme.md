@@ -27,3 +27,5 @@ Each user receives between 4 and 100 orders, with each order containing a list o
 - SET is defined as:
   - `order_products_prior.csv`: Contains 3.2 million previous orders
   - `order_products_train.csv`: Contains 3.2 million order information
+
+### Data : https://drive.google.com/file/d/1ez90j0-Gui9-mGBHL30MhtmHQEM8N9bO/view?usp=sharing
