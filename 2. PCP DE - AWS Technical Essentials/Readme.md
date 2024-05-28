@@ -42,4 +42,3 @@ The monitoring team at Heaven Classics started using the CloudWatch Service in t
 - Add the user to the `Administrator Group`.
 - Provide the user with the necessary credentials and instructions for accessing the AWS account.
 
-By following these steps, Heaven Classics will be able to effectively monitor their EC2 instance and ensure that key stakeholders are notified of any critical performance issues. Additionally, setting up proper IAM roles and users will help maintain secure and efficient access control within the AWS environment.
