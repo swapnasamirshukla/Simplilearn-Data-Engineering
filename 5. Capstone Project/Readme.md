@@ -79,6 +79,8 @@ E-commerce
 
 **d. Distribution of Freight Charges in Each City**
 
+[https://github.com/swapnasamirshukla/Simplilearn-Data-Engineering/blob/main/5.%20Capstone%20Project/Architecture.jpg]
+
 ### Week 1: Overview and Basic Configurations
 
 #### Step 1: Choose a Suitable Cloud Provider and Set Up a Spark Shell Environment
