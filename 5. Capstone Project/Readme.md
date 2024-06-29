@@ -79,7 +79,7 @@ E-commerce
 
 **d. Distribution of Freight Charges in Each City**
 
-[https://github.com/swapnasamirshukla/Simplilearn-Data-Engineering/blob/main/5.%20Capstone%20Project/Architecture.jpg]
+![Architecture](https://github.com/swapnasamirshukla/Simplilearn-Data-Engineering/blob/main/5.%20Capstone%20Project/Architecture.jpg)
 
 ### Week 1: Overview and Basic Configurations
 
