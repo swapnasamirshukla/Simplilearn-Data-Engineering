@@ -1,4 +1,3 @@
-```markdown
 # Description
 
 PQR Corp is a leading corporate training provider. A lot of prestigious organizations send their employees to PQR Corp for training on different skills. As a distinct training provider, PQR Corp has decided to share an analysis report with their clients. This report will help their clients know the employees who have completed training and evaluation exams, their strengths, and areas where employees need improvement. This is going to be a unique selling feature for PQR Corp. As PQR Corp is already doing great business and they train a large number of people every month, they have a huge amount of data to deal with. They have hired you as an expert and want your help to solve this problem.
